@@ -1,0 +1,84 @@
+/* Estilos para o header */
+header {
+    background-color: #2C3E50; /* Azul Escuro */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.2); /* Borda transparente estilo vidro */
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+/* Estilos para a barra de navegação */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #2C3E50; /* Azul Escuro */
+    font-weight: bold;
+}
+
+/* Estilos para a seção de produtos em destaque */
+.featured-products {
+    padding: 20px;
+    background-color: #E74C3C; /* Vermelho */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Borda transparente estilo vidro */
+}
+
+/* Estilos para a seção "Sobre Nós" */
+.about-us {
+    padding: 20px;
+    background-color: #3498DB; /* Azul Claro */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Borda transparente estilo vidro */
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #2C3E50; /* Azul Escuro */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    border-top: 2px solid rgba(255, 255, 255, 0.2); /* Borda transparente estilo vidro */
+}
+
+footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2px;
+    padding: 20px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+}
+
+img {
+    height: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Borda transparente estilo vidro */
+}
